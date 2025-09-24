@@ -31,13 +31,23 @@
 - Pinterest app version 2.6+ installed (older versions may work too)
 - MobileSubstrate
 
-## How to Use
+## Installation
 
-1. **Install PinterestFix** from Cydia
+1. **Add the repo** `repo.victorlobe.me` to Cydia
 
-2. **Respring your device**
+3. **Install PinterestFix**
 
-3. **Launch Pinterest** - it should now work without crashing!
+4. **Respring your device**
+
+5. **Launch Pinterest** - it should now work without crashing!
+
+## Manual Installation
+
+1. Download the `.deb` file
+
+3. Install using `dpkg -i PinterestFix.deb`
+
+4. Respring your device
 
 ## To Do
 
