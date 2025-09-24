@@ -5,7 +5,7 @@
 <h1 align="center">PinterestFix</h1>
 
 <p align="center">
-  An iOS tweak that automatically fixes Pinterest crashes on iOS 5+ by modifying the app's Info.plist version strings.
+  An iOS tweak that automatically fixes Pinterest on iOS 5+ by modifying the app's Info.plist version strings.
 </p>
 
 <p align="center">
