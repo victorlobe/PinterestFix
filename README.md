@@ -28,7 +28,7 @@
 ## Requirements
 
 - iOS 5.0+
-- Pinterest app version 2.6+ installed
+- Pinterest app version 2.6+ installed (older versions may work too)
 - MobileSubstrate
 
 ## How to Use
