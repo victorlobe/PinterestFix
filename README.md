@@ -28,7 +28,7 @@
 ## Requirements
 
 - iOS 5.0+
-- Pinterest app version 2.6+ installed (older versions may work too)
+- Pinterest app version 2.6+ (tested with versions 2.6+, 3.4.1, and 3.8.1)
 - MobileSubstrate
 
 ## Installation
@@ -48,6 +48,15 @@
 3. Install using `dpkg -i PinterestFix.deb`
 
 4. Respring your device
+
+## Version History
+
+### v1.0.1
+- Fixed a bug that caused the SpringBoard to crash
+- Fixed an issue where Pinterest sometimes wasn't patched
+
+### v1.0.0
+- Initial release
 
 ## To Do
 
